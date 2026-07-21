@@ -1,6 +1,6 @@
 ---
 name: loop-design-skill
-description: Interviews a business user about one recurring deliverable and produces a completed Loop Design Canvas plus a plain-language runnable loop spec. Asks management-language questions (what is the deliverable, how would you judge a junior hire's version, what would make you reject it), refuses vague success criteria — no testable Done-Test, no loop — and suggests existing skills as workers where they fit. Built for non-technical operators: no code, no jargon, output usable in any AI chat surface.
+description: Interviews a business user about one recurring deliverable and produces a completed Loop Design Canvas plus a plain-language runnable loop spec. Asks management-language questions (what is the deliverable, how would you judge a junior hire's version, what would make you reject it), refuses vague success criteria — no testable Done-Test, no loop — and suggests existing skills as workers where they fit. Built for non-technical operators — no code, no jargon, output usable in any AI chat surface.
 ---
 
 # Loop Design Skill
